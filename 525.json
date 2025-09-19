@@ -1,0 +1,43 @@
+{
+  "name": "PANDA CLUB525",
+  "description": "V1 update",
+  "external_url": "https://PandaClub.xyz",
+  "image": "https://raw.githubusercontent.com/pdcxrp/pdc11/main/525.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "white"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "yellow hockey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "surprised"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "crown"
+    },
+    {
+      "trait_type": "Back",
+      "value": "wings"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/pdcxrp/pdc11/main/525.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
